@@ -28,10 +28,10 @@ The two main difficulties were controlling 3D environment and camera placement. 
 The final version will incorporate advanced Unity assets to enhance the game's visual appeal and interactive elements, building on the foundation established in this prototype.
 
 ## Itch.io Link
-https://arunguni.itch.io/arun-assessment-2(#)
+https://arunguni.itch.io/arun-assessment-2
 
 ## Installation
-- git clone https://github.com/arunguni/BallinGround.git(#)
+- git clone https://github.com/arunguni/BallinGround.git
 
 ## How to Play
 ### MainMenu:
