@@ -37,12 +37,12 @@ https://arunguni.itch.io/arun-assessment-2
 - git clone https://github.com/arunguni/BallinGround.git
 
 ## How to Play
-### MainMenu:
+#### MainMenu:
 •	Clicking the Play button transitions user to the game scene. 
 •	Clicking the Option button opens the setting menu.
 •	Clicking the Exit button freezes the game screen. 
 •	Clicking the Credits button shows the developer and course information. 
-### GameScene:
+#### GameScene:
 •	Clicking the movement buttons with “<, >” symbols navigates the ball across the panel.
 •	Clicking the jump button makes the ball leap.
 •	Clicking the scale buttons with “+, -“ symbols changes the size of the ball.
