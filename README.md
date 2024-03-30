@@ -1,5 +1,5 @@
-# Ball in Ground
-# Arun Guni - Assessment 2
+<div align="center"># Ball in Ground</div>
+<div align="center"># Arun Guni - Assessment 2</div>
 ![Git banner](https://github.com/arunguni/BallinGround/assets/90784786/618e9d58-d0af-43fa-a697-e33d1360bca7)
 ## Overview
 The game “Ball in Ground” is a prototype designed for user engagement with interactive UI and simple controls yet fascinating gameplay experience. The concept was motivated by user experience design principles, which focus on user feedback, interactivity and simplicity. The game is designed for audience of all ages, which has a user-friendly UI with challenging gaming elements. 
