@@ -1,4 +1,5 @@
 # Ball in Ground
+# Arun Guni - Assessment 2
 
 ## Overview
 The game “Ball in Ground” is a prototype designed for user engagement with interactive UI and simple controls yet fascinating gameplay experience. The concept was motivated by user experience design principles, which focus on user feedback, interactivity and simplicity. The game is designed for audience of all ages, which has a user-friendly UI with challenging gaming elements. 
@@ -27,20 +28,24 @@ The two main difficulties were controlling 3D environment and camera placement. 
 The final version will incorporate advanced Unity assets to enhance the game's visual appeal and interactive elements, building on the foundation established in this prototype.
 
 ## Itch.io Link
-(https://arunguni.itch.io/arun-assessment-2)(#)
+https://arunguni.itch.io/arun-assessment-2(#)
 
 ## Installation
-Provide instructions on how to clone the repo, install any necessary dependencies, and run the game locally, if applicable.
+- git clone https://github.com/arunguni/BallinGround.git(#)
 
 ## How to Play
-Briefly describe how the game is played, including the controls and objectives.
-
-## Contributing
-Outline guidelines for how others can contribute to the project. This might include instructions for submitting issues, pull requests, and contact information for the project maintainers.
-
-## License
-Specify the license under which the game is released, if applicable.
+### MainMenu:
+•	Clicking the Play button transitions user to the game scene. 
+•	Clicking the Option button opens the setting menu.
+•	Clicking the Exit button freezes the game screen. 
+•	Clicking the Credits button shows the developer and course information. 
+### GameScene:
+•	Clicking the movement buttons with “<, >” symbols navigates the ball across the panel.
+•	Clicking the jump button makes the ball leap.
+•	Clicking the scale buttons with “+, -“ symbols changes the size of the ball.
+•	Clicking the reset button returns the ball to the initial size and position.
+•	Clicking the exit button returns the player to the main menu.
 
 ## Contact
 - **Developer**: Arun Guni
-- **Email**: [Your Email](mailto:your.email@example.com)
+- **Student ID**: 24247878
