@@ -38,16 +38,16 @@ https://arunguni.itch.io/arun-assessment-2
 
 ## How to Play
 #### MainMenu:
-•	Clicking the Play button transitions user to the game scene. 
-•	Clicking the Option button opens the setting menu.
-•	Clicking the Exit button freezes the game screen. 
-•	Clicking the Credits button shows the developer and course information. 
+-	Clicking the Play button transitions user to the game scene. 
+-	Clicking the Option button opens the setting menu.
+-	Clicking the Exit button freezes the game screen. 
+-	Clicking the Credits button shows the developer and course information. 
 #### GameScene:
-•	Clicking the movement buttons with “<, >” symbols navigates the ball across the panel.
-•	Clicking the jump button makes the ball leap.
-•	Clicking the scale buttons with “+, -“ symbols changes the size of the ball.
-•	Clicking the reset button returns the ball to the initial size and position.
-•	Clicking the exit button returns the player to the main menu.
+- Clicking the movement buttons with “<, >” symbols navigates the ball across the panel.
+-	Clicking the jump button makes the ball leap.
+-	Clicking the scale buttons with “+, -“ symbols changes the size of the ball.
+-	Clicking the reset button returns the ball to the initial size and position.
+-	Clicking the exit button returns the player to the main menu.
 
 ## Contact
 - **Developer**: Arun Guni
