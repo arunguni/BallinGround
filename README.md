@@ -1,5 +1,5 @@
-<div align="center"># Ball in Ground</div>
-<div align="center"># Arun Guni - Assessment 2</div> 
+<div align="center"> <h1>  Ball in Ground </h1> </div>
+<div align="center"><h2>  Arun Guni - Assessment 2 </h2> </div> 
 
 ![Git banner](https://github.com/arunguni/BallinGround/assets/90784786/618e9d58-d0af-43fa-a697-e33d1360bca7)
 
