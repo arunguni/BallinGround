@@ -11,7 +11,7 @@ The game “Ball in Ground” is a prototype designed for user engagement with i
 With a setting of natural objects like ground and trees, this theme provide player with an immersive experience, where the navigation of ball contrast with the beauty of nature. The final version of the game will have additional depth and interactive challenges as players engage with the environment, where they are exposed to variety of natural elements and creatures.
 
 ## Features
-- **Main Menu**: Includes buttons for Play, Options, Exit and Credits.
+- **Main Menu**: Includes buttons for Play, Options, Exit and Credit.
 - **Option Menu**: Contains a SFX volume slider and a back button.
 - **Control Mechanisms**: Allows players to move the ball in all directions, jump, scale up and down, and reset its position.
 - **Natural Environment**: The game scene is enriched with elements like grass(Green Ground surface) , trees, and eventually animals and obstacles in the final version.
